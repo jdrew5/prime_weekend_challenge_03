@@ -1,0 +1,16 @@
+.btn {
+    border: 1px solid black;
+    width: 34px;
+}
+
+.operationbutton, .clearbutton, .equalbutton {
+    background-color: lightgray;
+}
+
+.highlight-button {
+    background-color: red;
+}
+
+.clearbutton {
+    width: 80px;
+}
